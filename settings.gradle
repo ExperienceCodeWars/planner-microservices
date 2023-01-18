@@ -1,0 +1,6 @@
+rootProject.name = 'planner-microservices'
+
+includeBuild 'planner-config'
+includeBuild 'planner-server'
+includeBuild 'planner-gateway'
+includeBuild 'planner-entity'
